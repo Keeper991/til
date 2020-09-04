@@ -32,6 +32,8 @@
 
 ### etc
 
+- [x] SSH
+
 - [ ] TDD
 
 - [ ] Service Worker in create-react-app

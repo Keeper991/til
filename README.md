@@ -1,6 +1,7 @@
 # Today I Learned
 
 2020.09.05 - first commit
+2020.09.05 - SSH.md
 
 ## Keywords
 
@@ -31,6 +32,8 @@
 - [ ] hook API
 
 ### etc
+
+- [x] ~~SSH~~
 
 - [ ] TDD
 

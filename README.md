@@ -5,10 +5,10 @@
 
 ## Keywords
 
-* HTML & CSS
-* Javascript
-* React
-* etc
+- HTML & CSS
+- Javascript
+- React
+- etc
 
 ### HTML & CSS
 
@@ -46,6 +46,7 @@
 - [ ] PWS
 
 - [ ] webpack
+
   - [ ] bundle
 
 - [ ] docker
@@ -53,7 +54,7 @@
 - [ ] orm(sequelize)
 
 - [ ] AMP(Accelerated Mobile Page)
-  https://velog.io/@hongku/AMP-hnjy58td1h
+      https://velog.io/@hongku/AMP-hnjy58td1h
 
 - [ ] 웹에서 최적화란..
 

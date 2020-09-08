@@ -2,6 +2,7 @@
 
 2020.09.05 - first commit
 2020.09.05 - SSH.md
+2020.09.08 - 1x1ratio.md
 
 ## Keywords
 
@@ -12,9 +13,12 @@
 
 ### HTML & CSS
 
+- [x] 비율고정
+
 - [ ] margin 중복
 
 - [ ] fullPage.js
+
 - [ ] 동적 웹페이지 & 정적 웹페이지
 
 ### Javascript

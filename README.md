@@ -13,13 +13,15 @@
 
 ### HTML & CSS
 
-- [x] 비율고정
+- [x] ~~비율고정~~
 
 - [ ] margin 중복
 
 - [ ] fullPage.js
 
 - [ ] 동적 웹페이지 & 정적 웹페이지
+
+- [ ] 부분적 `display: none;` 미적용
 
 ### Javascript
 
@@ -35,9 +37,17 @@
 
 - [ ] hook API
 
+### git
+
+- [ ] create branch & merge
+
+- [ ] merge & rebase
+
 ### etc
 
 - [x] ~~SSH~~
+
+- [x] ~~Bapturing & Bubbling~~
 
 - [ ] TDD
 

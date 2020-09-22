@@ -6,6 +6,7 @@
 2020.09.11 - etc/capturing-bubbling.md
 2020.09.14 - etc/transpile-compile.md
 2020.09.15 - etc/gulp.md
+2020.09.22 - websiteVSwebapp.md
 
 ## Keywords
 
@@ -17,33 +18,25 @@
 ### HTML & CSS
 
 - [x] ~~비율고정~~
-
 - [ ] margin 중복
-
 - [ ] fullPage.js
-
 - [ ] 동적 웹페이지 & 정적 웹페이지
-
 - [ ] 부분적 `display: none;` 미적용
 
 ### Javascript
 
 - [ ] `async` & `await`
-
 - [ ] event loop
-
 - [ ] symbol
 
 ### React
 
 - [ ] 왜 react를 쓰는가?
-
 - [ ] hook API
 
 ### git
 
 - [ ] create branch & merge
-
 - [ ] merge & rebase
 
 ### etc
@@ -52,15 +45,14 @@
 - [x] Capturing & Bubbling
 - [x] Transpile VS Compile
 - [x] gulp
+- [x] website VS webapp
 - [ ] TDD
 - [ ] Service Worker in create-react-app
 - [ ] Manifest in create-react-app
 - [ ] Devops
 - [ ] PWS
 - [ ] webpack
-
   - [ ] bundle
-
   - [ ] Differences between webpack and gulp
 - [ ] docker
 - [ ] orm(sequelize)
@@ -72,4 +64,8 @@
 - [ ] 웹표준, 접근성, 반응성
   - [ ] 웹 접근성 인증 평가원
 - [ ] babel config file
-  (`.babelrc` vs `babel.config.js`)
+      (`.babelrc` vs `babel.config.js`)
+- [ ] CORS & CSRF
+- [ ] SSR 장단점
+- [ ] Dynamic Loading
+- [ ] Throttle & Debounce & lodash

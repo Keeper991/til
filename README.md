@@ -48,6 +48,7 @@
 - [x] gulp
 - [x] website VS webapp
 - [x] MVC
+- [x] Redux
 - [ ] TDD
 - [ ] Service Worker in create-react-app
 - [ ] Manifest in create-react-app

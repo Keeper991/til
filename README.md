@@ -27,6 +27,7 @@
 ### Javascript
 
 - [x] ES6 ~ ES11 주로 쓰는 문법
+- [x] 피연산자가 boolen이 아닐 경우의 논리연산
 - [ ] `async` & `await`
 - [ ] event loop
 - [ ] symbol

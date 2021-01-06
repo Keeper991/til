@@ -45,6 +45,7 @@
 ### Coding Test
 
 - [x] Best Elbum
+- [x] 입국심사 (Immigration)
 
 ### etc
 

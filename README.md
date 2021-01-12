@@ -58,6 +58,7 @@
 - [x] MVC
 - [x] Redux
 - [x] BFS / DFS
+- [x] Web App 관련된 tags
 - [ ] TDD
 - [ ] Service Worker in create-react-app
 - [ ] Manifest in create-react-app

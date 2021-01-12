@@ -57,6 +57,7 @@
 - [x] website VS webapp
 - [x] MVC
 - [x] Redux
+- [x] BFS / DFS
 - [ ] TDD
 - [ ] Service Worker in create-react-app
 - [ ] Manifest in create-react-app

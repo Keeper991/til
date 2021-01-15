@@ -61,6 +61,7 @@
 - [x] BFS / DFS
 - [x] Web App 관련된 tags
 - [x] 인접 리스트 만들기
+- [x] 이분 탐색
 - [ ] TDD
 - [ ] Service Worker in create-react-app
 - [ ] Manifest in create-react-app

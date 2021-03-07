@@ -20,6 +20,8 @@ Public Network를 통해 컴퓨터 간 서로 통신할 때 보안적으로 안�
 
 
 
+
+
 ## Feature
 
 * ssh는 기본적으로 한 쌍의 비대칭Key(Private, Public)를 통해, 인증과정을 거친다.
@@ -31,6 +33,11 @@ Public Network를 통해 컴퓨터 간 서로 통신할 때 보안적으로 안�
 * Private Key는 Passphrase 옵션을 통해 로컬 저장소에 저장할 수 있다.
 
 
+
+(+2020.09.09 추가)
+
+* Secure Shell은 OSI 7계층 구조에서 응용계층(Application Layer)에 속한다.
+* 
 
 ## Process
 

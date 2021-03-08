@@ -35,6 +35,7 @@
 - [x] 피연산자가 boolen이 아닐 경우의 논리연산
 - [x] event loop
 - [x] Capturing & Bubbling
+- [x] Wheel Event (feat. Full Page Scroll, animation)
 - [ ] Throttle & Debounce
 - [ ] Intersection Observer API
 - [ ] Strict mode

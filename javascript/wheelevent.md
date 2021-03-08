@@ -3,6 +3,7 @@
 ###### Update History
 
 2021.03.09 - 최초 작성.
+2021.03.09 - '아쉬운 점' 추가.
 
 
 
@@ -224,3 +225,16 @@ window.addEventListener("wheel", (e) => {
 ![animation](/Users/bandor/Documents/Projects/TIL/javascript/wheelEvent_animation.gif)
 
 스크롤마다 애니메이션이 단계적으로 진행되는 간단한 페이지를 만들어보았다.
+
+
+
+
+
+## 아쉬운 점
+
+연속으로 빠르게 wheel을 사용하면 제대로 동작하지 않는 경우가 발생하는데,
+이는 wheel Event가 완전히 끝나면 다시 동작하게끔 코딩했기 때문이다.
+
+이를 해결하기 위해 wheelDelta 값의 변동폭을 조건문으로 설정하는 방법이 떠올랐다.
+
+어느정도로 민감하게 반응하도록 설정할 것인지가 관건인 것 같다.

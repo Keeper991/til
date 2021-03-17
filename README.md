@@ -48,6 +48,7 @@
 ### React
 
 - [x] Redirect & Switch
+- [x] useMemo
 - [ ] 왜 react를 쓰는가?
 - [ ] hook API
 

@@ -74,6 +74,7 @@
 - [x] 입국심사 (Immigration)
 - [x] 수 찾기(Find Number)
 - [x] 조이스틱
+- [x] 124 나라 숫자
 
 
 
